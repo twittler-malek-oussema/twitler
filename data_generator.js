@@ -9,7 +9,7 @@ streams.home = [];
 streams.users = {};
 streams.users.shawndrost = [];
 streams.users.sharksforcheap = [];
-streams.users.mracus = [];
+streams.users.mracus = ['salut'];
 streams.users.douglascalhoun = [];
 window.users = Object.keys(streams.users);
 
